@@ -9,8 +9,8 @@ To use it is sufficient to make a copy of the repo and use your favourite LaTex 
 ### Overleaf
 
 To use the template in overleaf you should follow those steps: 
-  1. Download the tex and bib files in a Zip file by clicking on "Code" button of the repository
-  2. Select "Download Zip"
+  1. Download the tex and bib files in a Zip file by clicking on \url{https://github.com/Unibo-StatStudents/latex-template-thesis/blob/main/Statistical_Sciences_template.zip}
+  2. Select the "Download" button
   3. Log-in on Overleaf
   4. Click on "New project"
   5. Then on "Upload project"
