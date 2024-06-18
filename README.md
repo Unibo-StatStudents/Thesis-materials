@@ -1,4 +1,5 @@
-# Template thesis on LaTex
+# Thesis materials 
+## Template thesis on LaTex
 
 Dear all, 
 in this repo you can find a latex template structure which I made where you can write your thesis. 
@@ -20,5 +21,8 @@ To use the template in overleaf you should follow those steps:
 
 If you have any suggestion please contact me at albertotrashaj31@gmail.com
 
+## Tools
+Check out the tools that make your life much easier!
 
+1. (Zotero)[https://github.com/Unibo-StatStudents/Thesis-materials/blob/main/Tools/Zotero.md] -> Amazing tool for citing and organizing your sources
 
