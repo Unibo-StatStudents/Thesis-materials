@@ -24,5 +24,5 @@ If you have any suggestion please contact me at albertotrashaj31@gmail.com
 ## Tools
 Check out the tools that make your life much easier!
 
-1. (Zotero)[https://github.com/Unibo-StatStudents/Thesis-materials/blob/main/Tools/Zotero.md] -> Amazing tool for citing and organizing your sources
+1. [Zotero](https://github.com/Unibo-StatStudents/Thesis-materials/blob/main/Tools/Zotero.md) -> Amazing tool for citing and organizing your sources
 
